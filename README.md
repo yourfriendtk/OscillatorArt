@@ -1,4 +1,4 @@
-Web Audio Sandbox
+Oscillator Art
 =============
 
 Setup:
