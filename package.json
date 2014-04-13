@@ -1,11 +1,11 @@
 {
-  "name": "WebAudioSandbox",
+  "name": "OscillatorArt",
   "version": "0.0.0",
-  "description": "A sandbox for experimenting with the Web Audio API",
+  "description": "Oscillator Generated Art",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "start": "node app.js"
   },
   "author": "",
   "license": "ISC"
