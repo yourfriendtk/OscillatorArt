@@ -7,12 +7,12 @@ Setup:
 
 To run this server:
 
-  * `nodemon server.js`
+  * `nodemon app.js`
   * Visit http://localhost:5000/
 
 To view the server in action:
 
-  * Visit http://web-audio-sandbox.herokuapp.com/ | git@heroku.com:web-audio-sandbox.git
+  * Visit http://http://oscillator-art.herokuapp.com/ | git@heroku.com:oscillator-art.git
 
 
 
